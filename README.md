@@ -1,3 +1,3 @@
-# Teoria dos jogos
+# Game Theory
 
-Repositório para armazenar os algorítimos para solução de jogos não-sequẽnciais com estratégias mistas ou puras.
+Repository to store the algorithms for solving non-sequential games with mixed or pure strategies.
